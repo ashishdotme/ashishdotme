@@ -12,6 +12,7 @@ I'm a full stack developer currently focusing on React that loves to build thing
 - 🤝 Open for collaborations regarding backend/devops projects
 - 🌐 Visit my [website](https://ashish.me) for more information
 
+<table><tr><td valign="top" width="33%">
 <b>📕 Latest blog posts</b>
 
 <!-- blog starts -->
@@ -22,6 +23,7 @@ I'm a full stack developer currently focusing on React that loves to build thing
 
 More on [ashish.me](https://ashish.me)
 
+</td><td valign="top" width="34%">
 <b>🗒️ Latest TIL</b>
 
 <!-- tils starts -->
@@ -35,24 +37,19 @@ More on [ashish.me](https://ashish.me)
 
 More on [til.ashish.me](https://til.ashish.me)
 
+</td><td valign="top" width="33%">
 <b>📝 Latest TODOs</b>
 
 <!-- todos starts -->
-<<<<<<< HEAD
 
-- pull data from netflix
-- implement all design patterns
-- generate index of all the courses I have done
-=======
 - Pull data from netflix
 - Implement all design patterns
 - Support multiple tasks in a session
 - Learn composite pattern
 - 2km walk
->>>>>>> 00ce8b477a1264b4356d272676c2386045e38b7d
-<!-- todos ends -->
-
-<b> 🤝To connect with me</b>
+  <!-- todos ends -->
+  </td></tr></table>
+  <b> 🤝To connect with me</b>
 
 <p align = "center">
 

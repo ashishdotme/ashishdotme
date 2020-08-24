@@ -99,11 +99,11 @@ if __name__ == "__main__":
     tv = fetch_tv()
     rewritten = replace_chunk_no_space(rewritten, "tv", tv, True)
 
-    todos = fetch_todos()
+    todos = fetch_todos()[:5]
     todos_md = "\n".join(
         [
             "- {title}".format(
-                title=todo["content"],
+                title=todo["content"].capitalize(),
             )
             for todo in todos
         ]

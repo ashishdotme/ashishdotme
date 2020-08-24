@@ -38,5 +38,5 @@ jobs:
           git config --global user.email "ashishsushilpatel@gmail.com"
           git config --global user.name "Ashish Patel"
           git add -A
-          git commit -m "Updated content" || exit 0
+          git commit -m "readme: updated content" || exit 0
           git push

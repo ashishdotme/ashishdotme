@@ -34,9 +34,9 @@ More on [til.ashish.me](https://til.ashish.me)
 <!-- todos starts -->
 - Pull data from netflix
 - Implement all design patterns
-- Generate index of all the courses i have done
 - Support multiple tasks in a session
 - Learn composite pattern
+- 2km walk
 <!-- todos ends -->
 
 <b> 🤝To connect with me</b>

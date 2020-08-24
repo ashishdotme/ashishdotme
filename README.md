@@ -15,9 +15,8 @@ I'm a full stack developer currently focusing on React that loves to build thing
 <b>📕 Latest blog posts</b>
 
 <!-- blog starts -->
-
-- [Making a simple todo app using bulma](https://ashish.me/blog/2018-09-26-react-redux-demo/) - Wed, 26 Sep 2018
-- [Setting up my dev environment on Windows 10](https://ashish.me/blog/2017-01-01-plugins-for-visual-studio-code/) - Wed, 01 Mar 2017
+- [Making a simple todo app using bulma](https://ashish.me/blog/2018-09-26-react-redux-demo/) - Wed, 26 Sep 2018 
+- [Setting up my dev environment on Windows 10](https://ashish.me/blog/2017-01-01-plugins-for-visual-studio-code/) - Wed, 01 Mar 2017 
 <!-- blog ends -->
 
 More on [ashish.me](https://ashish.me)
@@ -25,7 +24,6 @@ More on [ashish.me](https://ashish.me)
 <b>🗒️ Latest TIL</b>
 
 <!-- tils starts -->
-
 - [Undo last commit](https://github.com/ashishdotme/til/blob/master/git/undo-last-commit.md) - 2020-08-23
 - [Sort results in descending](https://github.com/ashishdotme/til/blob/master/mongodb/sort-results-descending.md) - 2020-08-23
 - [Exclude node_modules from all sub folders](https://github.com/ashishdotme/til/blob/master/git/exlude-node-moudles-from-all-subfolders.md) - 2020-08-23
@@ -38,18 +36,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <b>📝 Latest TODOs</b>
 
 <!-- todos starts -->
-<<<<<<< HEAD
-
-- pull data from netflix
-- implement all design patterns
-- generate index of all the courses I have done
-=======
 - Pull data from netflix
 - Implement all design patterns
 - Support multiple tasks in a session
 - Learn composite pattern
 - 2km walk
->>>>>>> 00ce8b477a1264b4356d272676c2386045e38b7d
 <!-- todos ends -->
 
 <b> 🤝To connect with me</b>

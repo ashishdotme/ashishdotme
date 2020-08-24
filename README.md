@@ -38,10 +38,18 @@ More on [til.ashish.me](https://til.ashish.me)
 <b>📝 Latest TODOs</b>
 
 <!-- todos starts -->
+<<<<<<< HEAD
 
 - pull data from netflix
 - implement all design patterns
 - generate index of all the courses I have done
+=======
+- Pull data from netflix
+- Implement all design patterns
+- Support multiple tasks in a session
+- Learn composite pattern
+- 2km walk
+>>>>>>> 00ce8b477a1264b4356d272676c2386045e38b7d
 <!-- todos ends -->
 
 <b> 🤝To connect with me</b>

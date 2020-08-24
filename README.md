@@ -32,9 +32,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <b>📝 Latest TODOs</b>
 
 <!-- todos starts -->
-- pull data from netflix
-- implement all design patterns
-- generate index of all the courses I have done
+- Pull data from netflix
+- Implement all design patterns
+- Generate index of all the courses i have done
+- Support multiple tasks in a session
+- Learn composite pattern
 <!-- todos ends -->
 
 <b> 🤝To connect with me</b>

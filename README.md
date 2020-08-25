@@ -13,44 +13,56 @@ I'm a full stack developer currently focusing on React that loves to build thing
 - 🌐 Visit my [website](https://ashish.me) for more information
 
 <br>
-<table><tr><td valign="top" width="33%">
-<b>📕 Latest blog posts</b>
-&nbsp;
+<table>  
+<tr>
+<th><b>📕 Latest blog posts</b></th>
+<th><b>🗒️ Latest TIL</b></th>
+<th><b>📝 Latest TODOs</b></th>
+</tr>
+<tr>
+<td valign="top" width="33%">
 
 <!-- blog starts -->
-- [Making a simple todo app using bulma](https://ashish.me/blog/2018-09-26-react-redux-demo/) - Wed, 26 Sep 2018 
-- [Setting up my dev environment on Windows 10](https://ashish.me/blog/2017-01-01-plugins-for-visual-studio-code/) - Wed, 01 Mar 2017 
+
+- [Making a simple todo app using bulma](https://ashish.me/blog/2018-09-26-react-redux-demo/) - Wed, 26 Sep 2018
+- [Setting up my dev environment on Windows 10](https://ashish.me/blog/2017-01-01-plugins-for-visual-studio-code/) - Wed, 01 Mar 2017
+
 <!-- blog ends -->
 
 More on [ashish.me](https://ashish.me)
 
-</td><td valign="top" width="34%">
-<b>🗒️ Latest TIL</b>
-&nbsp;
+</td>
+<td valign="top" width="34%">
 
 <!-- tils starts -->
+
 - [Undo last commit](https://github.com/ashishdotme/til/blob/master/git/undo-last-commit.md) - 2020-08-23
 - [Sort results in descending](https://github.com/ashishdotme/til/blob/master/mongodb/sort-results-descending.md) - 2020-08-23
 - [Exclude node_modules from all sub folders](https://github.com/ashishdotme/til/blob/master/git/exlude-node-moudles-from-all-subfolders.md) - 2020-08-23
 - [Show console.log output in vscode debug console](https://github.com/ashishdotme/til/blob/master/nodejs/show-output-in-vscode.md) - 2020-08-21
 - [Debugging testcase](https://github.com/ashishdotme/til/blob/master/mocha/debug-testcase.md) - 2020-04-20
+
 <!-- tils ends -->
 
 More on [til.ashish.me](https://til.ashish.me)
 
-</td><td valign="top" width="33%">
-<b>📝 Latest TODOs</b>
-&nbsp;
+</td>
+<td valign="top" width="33%">
 
 <!-- todos starts -->
+
 - Pull data from netflix
 - Implement all design patterns
 - Support multiple tasks in a session
 - Learn composite pattern
 - 2km walk
+
 <!-- todos ends -->
-    </td></tr></table>
-    <b> 🤝To connect with me</b>
+
+</td>
+</tr>
+</table>
+<b> 🤝To connect with me</b>
 
 <p align = "center">
 

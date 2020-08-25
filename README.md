@@ -12,9 +12,10 @@ I'm a full stack developer currently focusing on React that loves to build thing
 - 🤝 Open for collaborations regarding backend/devops projects
 - 🌐 Visit my [website](https://ashish.me) for more information
 
+<br>
 <table><tr><td valign="top" width="33%">
 <b>📕 Latest blog posts</b>
-
+<br>
 <!-- blog starts -->
 
 - [Making a simple todo app using bulma](https://ashish.me/blog/2018-09-26-react-redux-demo/) - Wed, 26 Sep 2018
@@ -25,7 +26,7 @@ More on [ashish.me](https://ashish.me)
 
 </td><td valign="top" width="34%">
 <b>🗒️ Latest TIL</b>
-
+<br>
 <!-- tils starts -->
 
 - [Undo last commit](https://github.com/ashishdotme/til/blob/master/git/undo-last-commit.md) - 2020-08-23
@@ -39,7 +40,7 @@ More on [til.ashish.me](https://til.ashish.me)
 
 </td><td valign="top" width="33%">
 <b>📝 Latest TODOs</b>
-
+<br>
 <!-- todos starts -->
 
 - Pull data from netflix

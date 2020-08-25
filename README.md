@@ -15,7 +15,7 @@ I'm a full stack developer currently focusing on React that loves to build thing
 <br>
 <table><tr><td valign="top" width="33%">
 <b>📕 Latest blog posts</b>
-<br>
+&nbsp;
 
 <!-- blog starts -->
 
@@ -27,7 +27,7 @@ More on [ashish.me](https://ashish.me)
 
 </td><td valign="top" width="34%">
 <b>🗒️ Latest TIL</b>
-<br>
+&nbsp;
 
 <!-- tils starts -->
 
@@ -42,7 +42,7 @@ More on [til.ashish.me](https://til.ashish.me)
 
 </td><td valign="top" width="33%">
 <b>📝 Latest TODOs</b>
-<br>
+&nbsp;
 
 <!-- todos starts -->
 

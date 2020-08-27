@@ -49,8 +49,8 @@ More on [til.ashish.me](https://til.ashish.me)
 - Pull data from netflix
 - Implement all design patterns
 - Support multiple tasks in a session
-- Learn composite pattern
 - 2km walk
+- Create a configurable component
 <!-- todos ends -->
 
 </td>

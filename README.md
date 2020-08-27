@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Pull data from netflix
 - Implement all design patterns
 - Support multiple tasks in a session
 - 2km walk
 - Create a configurable component
+- Dependency injection design pattern
 <!-- todos ends -->
 
 </td>

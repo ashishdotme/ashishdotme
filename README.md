@@ -46,7 +46,6 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Implement all design patterns
 - Support multiple tasks in a session
 - 2km walk
 - Create a configurable component

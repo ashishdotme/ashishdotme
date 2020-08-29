@@ -50,7 +50,6 @@ More on [til.ashish.me](https://til.ashish.me)
 - Support multiple tasks in a session
 - 2km walk
 - Create a configurable component
-- Dependency injection design pattern
 <!-- todos ends -->
 
 </td>

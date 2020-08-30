@@ -49,6 +49,8 @@ More on [til.ashish.me](https://til.ashish.me)
 - Support multiple tasks in a session
 - 2km walk
 - Create a configurable component
+- Use hooks for notes app
+- Add purge command for personal bot
 <!-- todos ends -->
 
 </td>

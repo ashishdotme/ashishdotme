@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
+- Pay electricity
+- Buy sleepwear
 - Fix datewise work progress
 - Do laundry
-- Pay american express bill for term insurance premium fee
 - Do drug test for onboarding
-- Buy vim dish cleaner liquid
 <!-- todos ends -->
 
 </td>

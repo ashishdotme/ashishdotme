@@ -61,7 +61,7 @@ def fetch_todos():
     for todo in todos:
         tasks.append(todo)
 
-    return tasks
+    return tasks[::-1]
 
 
 def fetch_blog_entries():

@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Support multiple tasks in a session
-- 2km walk
-- Create a configurable component
-- Use hooks for notes app
-- Add purge command for personal bot
+- Fix datewise work progress
+- Do laundry
+- Setup a password manager
+- Pay american express bill for term insurance premium fee
+- Do drug test for onboarding
 <!-- todos ends -->
 
 </td>

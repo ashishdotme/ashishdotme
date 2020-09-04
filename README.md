@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Pay electricity
 - Buy sleepwear
-- Fix datewise work progress
 - Do laundry
-- Do drug test for onboarding
+- Buy vim dish cleaner liquid
+- Use hooks for notes app
+- Create a configurable component
 <!-- todos ends -->
 
 </td>

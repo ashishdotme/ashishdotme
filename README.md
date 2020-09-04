@@ -47,10 +47,10 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Buy sleepwear
-- Do laundry
 - Buy vim dish cleaner liquid
 - Use hooks for notes app
 - Create a configurable component
+- Support multiple tasks in a session
 <!-- todos ends -->
 
 </td>

@@ -48,9 +48,9 @@ More on [til.ashish.me](https://til.ashish.me)
 <!-- todos starts -->
 - Fix datewise work progress
 - Do laundry
-- Setup a password manager
 - Pay american express bill for term insurance premium fee
 - Do drug test for onboarding
+- Buy vim dish cleaner liquid
 <!-- todos ends -->
 
 </td>

@@ -47,10 +47,9 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Throw trash, order water can & efiling
-- Buy sleepwear
-- Buy vim dish cleaner liquid
 - Use hooks for notes app
 - Create a configurable component
+- Support multiple tasks in a session
 <!-- todos ends -->
 
 </td>

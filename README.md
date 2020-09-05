@@ -46,7 +46,7 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Make a common generator for generating readme and other files
+- Throw trash, order water can & efiling
 - Buy sleepwear
 - Buy vim dish cleaner liquid
 - Use hooks for notes app

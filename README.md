@@ -46,10 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Throw trash, order water can & efiling
-- Use hooks for notes app
-- Create a configurable component
-- Support multiple tasks in a session
+- Complete chapter 6 of react hooks course
+- Complete chapter 5 of react hooks course
+- Complete chapter 4 of react hooks course
+- Complete chapter 3 of react hooks course
+- Complete chapter 2 of react hooks course
 <!-- todos ends -->
 
 </td>

@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
+- Create starter react app
+- Try different auths with react app
+- Setup promotheus
+- Write a script to generate client
 - Complete chapter 6 of react hooks course
-- Complete chapter 5 of react hooks course
-- Complete chapter 4 of react hooks course
-- Complete chapter 3 of react hooks course
-- Complete chapter 2 of react hooks course
 <!-- todos ends -->
 
 </td>

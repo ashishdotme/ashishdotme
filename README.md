@@ -46,7 +46,7 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Try different auths with react app
+- Write script to publish npm packages
 - Setup promotheus
 - Write a script to generate client
 - Complete chapter 6 of react hooks course

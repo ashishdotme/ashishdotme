@@ -47,10 +47,10 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Write script to publish npm packages
-- Setup promotheus
 - Write a script to generate client
 - Complete chapter 6 of react hooks course
 - Complete chapter 5 of react hooks course
+- Complete chapter 4 of react hooks course
 <!-- todos ends -->
 
 </td>

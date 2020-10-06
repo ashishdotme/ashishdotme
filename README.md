@@ -50,7 +50,7 @@ More on [til.ashish.me](https://til.ashish.me)
 - Write a script to generate client
 - Complete chapter 6 of react hooks course
 - Complete chapter 5 of react hooks course
-- Complete chapter 4 of react hooks course
+- Use hooks for notes app
 <!-- todos ends -->
 
 </td>

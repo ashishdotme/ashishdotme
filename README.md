@@ -48,7 +48,6 @@ More on [til.ashish.me](https://til.ashish.me)
 <!-- todos starts -->
 - Write script to publish npm packages
 - Write a script to generate client
-- Complete chapter 6 of react hooks course
 - Use hooks for notes app
 - Support multiple tasks in a session
 <!-- todos ends -->

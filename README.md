@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
+- Create a repo for common tech questions
+- Update profiles
 - Update resume
 - Write script to publish npm packages
 - Write a script to generate client
-- Use hooks for notes app
-- Support multiple tasks in a session
 <!-- todos ends -->
 
 </td>

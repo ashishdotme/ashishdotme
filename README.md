@@ -50,7 +50,7 @@ More on [til.ashish.me](https://til.ashish.me)
 - Setup sap
 - Setup pf
 - Update payroll
-- Send pre employment
+- Use hooks for notes app
 <!-- todos ends -->
 
 </td>

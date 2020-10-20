@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
+- Create a cli for common tasks
 - Setup insurance
 - Setup sap
 - Setup pf
 - Update payroll
-- Use hooks for notes app
 <!-- todos ends -->
 
 </td>

@@ -49,8 +49,8 @@ More on [til.ashish.me](https://til.ashish.me)
 - Spring boot chapter 5
 - Spring boot chapter 4
 - Spring boot chapter 3
-- Spring boot chapter 2
-- Spring boot chapter 1
+- Openshift chapter 7
+- Openshift chpater 6
 <!-- todos ends -->
 
 </td>

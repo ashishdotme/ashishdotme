@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Openshift chapter 7
-- Openshift chpater 6
-- Openshift chapter 5
-- Openshift chapter 4
-- Openshift chapter 3
+- Spring boot chapter 5
+- Spring boot chapter 4
+- Spring boot chapter 3
+- Spring boot chapter 2
+- Spring boot chapter 1
 <!-- todos ends -->
 
 </td>

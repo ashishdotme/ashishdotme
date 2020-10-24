@@ -47,10 +47,10 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Spring boot chapter 5
-- Spring boot chapter 4
 - Spring boot chapter 3
 - Openshift chapter 7
 - Openshift chpater 6
+- Openshift chapter 5
 <!-- todos ends -->
 
 </td>

@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Openshift chapter 7
-- Openshift chpater 6
-- Openshift chapter 5
-- Openshift chapter 4
-- Openshift chapter 3
+- Oreilly reactive spring boot chapter 10
+- Oreilly reactive spring boot chapter 9
+- Oreilly reactive spring boot chapter 8
+- Oreilly reactive spring boot chapter 7
+- Oreilly reactive spring boot chapter 6
 <!-- todos ends -->
 
 </td>

@@ -46,11 +46,9 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
-- Oreilly modern java web applications with spring boot chapter 7
-- Oreilly modern java web applications with spring boot chapter 6
-- Oreilly modern java web applications with spring boot chapter 5
-- Oreilly modern java web applications with spring boot chapter 4
-- Oreilly modern java web applications with spring boot chapter 3
+- Add defer option for tasks
+- Order from bigbasket
+- Create a cli for common tasks
 <!-- todos ends -->
 
 </td>

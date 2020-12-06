@@ -47,7 +47,6 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Add defer option for tasks
-- Order from bigbasket
 - Create a cli for common tasks
 <!-- todos ends -->
 

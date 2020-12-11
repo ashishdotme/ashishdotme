@@ -47,10 +47,10 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Solve leetcode 606
-- Solve leetcode 653
 - Read “the old man and the sea”
 - Create topic wise list of important leetcode questions
 - Print aadhar card
+- Get esim
 <!-- todos ends -->
 
 </td>

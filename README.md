@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
+- Rewrite the process api using next.js
 - Solve leetcode 606
 - Read “the old man and the sea”
 - Create topic wise list of important leetcode questions
 - Print aadhar card
-- Get esim
 <!-- todos ends -->
 
 </td>

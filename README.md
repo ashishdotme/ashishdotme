@@ -50,7 +50,7 @@ More on [til.ashish.me](https://til.ashish.me)
 - Solve leetcode 606
 - Read “the old man and the sea”
 - Create topic wise list of important leetcode questions
-- Print aadhar card
+- Add defer option for tasks
 <!-- todos ends -->
 
 </td>

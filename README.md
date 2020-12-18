@@ -47,10 +47,10 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Fix laptop bag
-- Order chaipatti, ginger, butter
-- Get water can
 - Setup alfred workflows
 - Rewrite the process api using next.js
+- Solve leetcode 606
+- Read “the old man and the sea”
 <!-- todos ends -->
 
 </td>

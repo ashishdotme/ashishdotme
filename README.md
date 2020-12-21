@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
+- Get clothes from laundry
 - Fix laptop bag
 - Setup alfred workflows
 - Rewrite the process api using next.js
 - Solve leetcode 606
-- Read “the old man and the sea”
 <!-- todos ends -->
 
 </td>

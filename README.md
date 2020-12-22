@@ -47,10 +47,10 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Clean up personal bot
-- Clean up personal bot
 - Get clothes from laundry
 - Fix laptop bag
 - Setup alfred workflows
+- Solve leetcode 606
 <!-- todos ends -->
 
 </td>

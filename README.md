@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
+- Add github action for todos repo
 - Update readmes with social links
 - Fix laptop bag
 - Setup alfred workflows
 - Solve leetcode 606
-- Read “the old man and the sea”
 <!-- todos ends -->
 
 </td>

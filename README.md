@@ -17,7 +17,7 @@ I'm a full stack developer currently focusing on React that loves to build thing
 <tr>
 <th><b>📕 Latest blog posts</b></th>
 <th><b>🗒️ Latest TIL</b></th>
-<th><b>📝 Latest TODOs</b></th>
+<th><b>📝 Recent commits</b></th>
 </tr>
 <tr>
 <td valign="top" width="33%">
@@ -45,13 +45,13 @@ More on [til.ashish.me](https://til.ashish.me)
 </td>
 <td valign="top" width="33%">
 
-<!-- todos starts -->
-- Fix datewise work progress
-- Do laundry
-- Setup a password manager
-- Pay american express bill for term insurance premium fee
-- Do drug test for onboarding
-<!-- todos ends -->
+<!-- repos starts -->
+- [todos.ashish.me](https://github.com/ashishdotme/todos.ashish.me) - 2020-12-26T20:40:51Z
+- [ashishdotme](https://github.com/ashishdotme/ashishdotme) - 2020-12-26T19:43:38Z
+- [status.ashish.me](https://github.com/ashishdotme/status.ashish.me) - 2020-12-26T00:38:31Z
+- [api-client](https://github.com/ashishdotme/api-client) - 2020-12-25T07:44:42Z
+- [sdk](https://github.com/ashishdotme/sdk) - 2020-12-25T01:54:00Z
+<!-- repos ends -->
 
 </td>
 </tr>

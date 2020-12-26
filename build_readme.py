@@ -6,8 +6,6 @@ import re
 import os
 
 root = pathlib.Path(__file__).parent.resolve()
-TOKEN = os.environ['TODOIST_TOKEN']
-
 
 def replace_chunk(content, marker, chunk, inline=False):
     r = re.compile(
@@ -40,29 +38,17 @@ def fetch_tils():
         params={"sql": sql, "_shape": "array", },
     ).json()
 
+def fetch_repos():
+    response = httpx.get("https://api.github.com/users/ashishdotme/repos?sort=updated&per_page=10").json()
+    return response
 
 def fetch_movie():
     movie = httpx.get("https://api.ashish.me/movies").json()[0]["title"]
     return movie
 
-
 def fetch_tv():
     tv = httpx.get("https://api.ashish.me/shows").json()[0]["title"]
     return tv
-
-
-def fetch_todos():
-    url = "https://api.todoist.com/rest/v1/tasks?token={}&project_id=2239311712".format(
-        TOKEN)
-    todos = httpx.get(url).json()
-
-    tasks = []
-
-    for todo in todos:
-        tasks.append(todo)
-
-    return tasks[::-1]
-
 
 def fetch_blog_entries():
     entries = feedparser.parse("https://ashish.me/blog/feed.xml")["entries"]
@@ -99,16 +85,18 @@ if __name__ == "__main__":
     tv = fetch_tv()
     rewritten = replace_chunk_no_space(rewritten, "tv", tv, True)
 
-    todos = fetch_todos()[:5]
-    todos_md = "\n".join(
+    repos = fetch_repos()[:5]
+    repos_md = "\n".join(
         [
-            "- {title}".format(
-                title=todo["content"].capitalize(),
+            "- [{title}]({url}) - {published}".format(
+                title=repo["name"],
+                url=repo["svn_url"],
+                published=repo["updated_at"].split("T")[0]
             )
-            for todo in todos
+            for repo in repos
         ]
     )
-    rewritten = replace_chunk(rewritten, "todos", todos_md)
+    rewritten = replace_chunk(rewritten, "repos", repos_md)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(

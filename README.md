@@ -46,8 +46,8 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- todos starts -->
+- Update readmes with social links
 - Clean up personal bot
-- Get clothes from laundry
 - Fix laptop bag
 - Setup alfred workflows
 - Solve leetcode 606

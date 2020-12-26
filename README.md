@@ -48,9 +48,9 @@ More on [til.ashish.me](https://til.ashish.me)
 <!-- todos starts -->
 - Backup photo
 - Update readme template
-- Add github action for todos repo
 - Update readmes with social links
 - Fix laptop bag
+- Setup alfred workflows
 <!-- todos ends -->
 
 </td>

@@ -46,11 +46,11 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- repos starts -->
-- [todos.ashish.me](https://github.com/ashishdotme/todos.ashish.me) - 2020-12-26T20:40:51Z
-- [ashishdotme](https://github.com/ashishdotme/ashishdotme) - 2020-12-26T19:43:38Z
-- [status.ashish.me](https://github.com/ashishdotme/status.ashish.me) - 2020-12-26T00:38:31Z
-- [api-client](https://github.com/ashishdotme/api-client) - 2020-12-25T07:44:42Z
-- [sdk](https://github.com/ashishdotme/sdk) - 2020-12-25T01:54:00Z
+- [ashishdotme](https://github.com/ashishdotme/ashishdotme) - 2020-12-26
+- [todos.ashish.me](https://github.com/ashishdotme/todos.ashish.me) - 2020-12-26
+- [status.ashish.me](https://github.com/ashishdotme/status.ashish.me) - 2020-12-26
+- [api-client](https://github.com/ashishdotme/api-client) - 2020-12-25
+- [sdk](https://github.com/ashishdotme/sdk) - 2020-12-25
 <!-- repos ends -->
 
 </td>

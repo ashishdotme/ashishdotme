@@ -47,10 +47,10 @@ More on [til.ashish.me](https://til.ashish.me)
 
 <!-- todos starts -->
 - Update readmes with social links
-- Clean up personal bot
 - Fix laptop bag
 - Setup alfred workflows
 - Solve leetcode 606
+- Read “the old man and the sea”
 <!-- todos ends -->
 
 </td>

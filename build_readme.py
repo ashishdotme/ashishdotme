@@ -39,7 +39,7 @@ def fetch_tils():
     ).json()
 
 def fetch_repos():
-    response = httpx.get("https://api.github.com/users/ashishdotme/repos?sort=updated&per_page=10").json()
+    response = httpx.get("https://api.github.com/users/ashishdotme/repos?sort=created&per_page=10").json()
     return response
 
 def fetch_movie():
@@ -85,7 +85,7 @@ if __name__ == "__main__":
     tv = fetch_tv()
     rewritten = replace_chunk_no_space(rewritten, "tv", tv, True)
 
-    repos = fetch_repos()[:5]
+    repos = fetch_repos()[:7]
     repos_md = "\n".join(
         [
             "- [{title}]({url}) - {published}".format(

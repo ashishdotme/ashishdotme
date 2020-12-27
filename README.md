@@ -17,7 +17,7 @@ I'm a full stack developer currently focusing on React that loves to build thing
 <tr>
 <th><b>📕 Latest blog posts</b></th>
 <th><b>🗒️ Latest TIL</b></th>
-<th><b>📝 Recent commits</b></th>
+<th><b>📝 Latest projects</b></th>
 </tr>
 <tr>
 <td valign="top" width="33%">
@@ -46,11 +46,14 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- repos starts -->
-- [todos.ashish.me](https://github.com/ashishdotme/todos.ashish.me) - 2020-12-26T20:40:51Z
-- [ashishdotme](https://github.com/ashishdotme/ashishdotme) - 2020-12-26T19:43:38Z
-- [status.ashish.me](https://github.com/ashishdotme/status.ashish.me) - 2020-12-26T00:38:31Z
-- [api-client](https://github.com/ashishdotme/api-client) - 2020-12-25T07:44:42Z
-- [sdk](https://github.com/ashishdotme/sdk) - 2020-12-25T01:54:00Z
+- [todos.ashish.me](https://github.com/ashishdotme/todos.ashish.me) - 2020-12-26
+- [sdk](https://github.com/ashishdotme/sdk) - 2020-12-25
+- [api-client](https://github.com/ashishdotme/api-client) - 2020-12-25
+- [wiki.ashish.me](https://github.com/ashishdotme/wiki.ashish.me) - 2020-12-23
+- [status.ashish.me](https://github.com/ashishdotme/status.ashish.me) - 2020-12-27
+- [health.ashish.me](https://github.com/ashishdotme/health.ashish.me) - 2020-12-10
+- [practice-problems](https://github.com/ashishdotme/practice-problems) - 2020-12-15
+- [node-websockets](https://github.com/ashishdotme/node-websockets) - 2020-11-22
 <!-- repos ends -->
 
 </td>

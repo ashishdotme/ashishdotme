@@ -53,7 +53,6 @@ More on [til.ashish.me](https://til.ashish.me)
 - [status.ashish.me](https://github.com/ashishdotme/status.ashish.me) - 2020-12-27
 - [health.ashish.me](https://github.com/ashishdotme/health.ashish.me) - 2020-12-10
 - [practice-problems](https://github.com/ashishdotme/practice-problems) - 2020-12-15
-- [node-websockets](https://github.com/ashishdotme/node-websockets) - 2020-11-22
 <!-- repos ends -->
 
 </td>

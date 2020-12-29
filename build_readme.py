@@ -91,7 +91,7 @@ if __name__ == "__main__":
             "- [{title}]({url}) - {published}".format(
                 title=repo["name"],
                 url=repo["svn_url"],
-                published=repo["updated_at"].split("T")[0]
+                published=repo["created_at"].split("T")[0]
             )
             for repo in repos
         ]

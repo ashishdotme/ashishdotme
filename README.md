@@ -33,11 +33,11 @@ More on [ashish.me](https://ashish.me)
 <td valign="top" width="34%">
 
 <!-- tils starts -->
-- [Get the start and end of current week](https://github.com/ashishdotme/til/blob/master/dayjs/get-the-start-and-end-of-current-week.md) - 2020-08-25
-- [Undo last commit](https://github.com/ashishdotme/til/blob/master/git/undo-last-commit.md) - 2020-08-23
-- [Sort results in descending](https://github.com/ashishdotme/til/blob/master/mongodb/sort-results-descending.md) - 2020-08-23
-- [Exclude node_modules from all sub folders](https://github.com/ashishdotme/til/blob/master/git/exlude-node-moudles-from-all-subfolders.md) - 2020-08-23
-- [Show console.log output in vscode debug console](https://github.com/ashishdotme/til/blob/master/nodejs/show-output-in-vscode.md) - 2020-08-21
+- [Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/postgresql/common-commands.md) - 2021-03-02
+- [Pull request flow](https://github.com/ashishdotme/til.ashish.me/blob/master/git/pull-request-flow.md) - 2020-11-26
+- [Run PostgreSQL](https://github.com/ashishdotme/til.ashish.me/blob/master/docker/run-postgresql.md) - 2020-10-24
+- [Add redux to existing react project](https://github.com/ashishdotme/til.ashish.me/blob/master/react/add-redux-to-existing-react-project.md) - 2020-10-24
+- [Get the start and end of current week](https://github.com/ashishdotme/til.ashish.me/blob/master/dayjs/get-the-start-and-end-of-current-week.md) - 2020-08-25
 <!-- tils ends -->
 
 More on [til.ashish.me](https://til.ashish.me)

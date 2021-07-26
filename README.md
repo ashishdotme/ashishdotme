@@ -46,7 +46,7 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- repos starts -->
-- [caprover_terraform](https://github.com/ashishdotme/caprover_terraform) - 2021-07-26
+- [caprover-terraform](https://github.com/ashishdotme/caprover-terraform) - 2021-07-26
 - [personal-api](https://github.com/ashishdotme/personal-api) - 2021-05-03
 - [ansu-bot](https://github.com/ashishdotme/ansu-bot) - 2021-04-21
 - [Cliptok](https://github.com/ashishdotme/Cliptok) - 2021-04-18

@@ -33,11 +33,11 @@ More on [ashish.me](https://ashish.me)
 <td valign="top" width="34%">
 
 <!-- tils starts -->
-- [Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/postgresql/common-commands.md) - 2021-03-02
+- [Flask Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/flask/common-commands.md) - 2021-10-20
+- [Django Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/django/common-commands.md) - 2021-10-20
+- [PostgreSQL Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/postgresql/common-commands.md) - 2021-03-02
 - [Pull request flow](https://github.com/ashishdotme/til.ashish.me/blob/master/git/pull-request-flow.md) - 2020-11-26
 - [Run PostgreSQL](https://github.com/ashishdotme/til.ashish.me/blob/master/docker/run-postgresql.md) - 2020-10-24
-- [Add redux to existing react project](https://github.com/ashishdotme/til.ashish.me/blob/master/react/add-redux-to-existing-react-project.md) - 2020-10-24
-- [Get the start and end of current week](https://github.com/ashishdotme/til.ashish.me/blob/master/dayjs/get-the-start-and-end-of-current-week.md) - 2020-08-25
 <!-- tils ends -->
 
 More on [til.ashish.me](https://til.ashish.me)

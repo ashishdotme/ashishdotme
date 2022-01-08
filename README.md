@@ -46,13 +46,13 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- repos starts -->
+- [roommate-telegram-bot](https://github.com/ashishdotme/roommate-telegram-bot) - 2022-01-08
 - [data.ashish.me](https://github.com/ashishdotme/data.ashish.me) - 2021-12-18
 - [alfred-config](https://github.com/ashishdotme/alfred-config) - 2021-10-26
 - [nci_2021](https://github.com/ashishdotme/nci_2021) - 2021-10-19
 - [blockchain-labs](https://github.com/ashishdotme/blockchain-labs) - 2021-10-19
 - [msccloud](https://github.com/ashishdotme/msccloud) - 2021-09-28
 - [PowerPlatformConnectors](https://github.com/ashishdotme/PowerPlatformConnectors) - 2021-08-13
-- [gym](https://github.com/ashishdotme/gym) - 2021-08-07
 <!-- repos ends -->
 
 </td>

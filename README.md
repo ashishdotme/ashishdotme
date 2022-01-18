@@ -7,7 +7,7 @@
 I'm a full stack developer currently focusing on React that loves to build things and contributing to open source.
 
 - 👨🏽‍💻 Currently working and growing my skillset in React, .Net Core and Kubernetes
-- 🍿 Last movie watched - <!-- movie starts -->`Terminator: Dark Fate`<!-- movie ends -->
+- 🍿 Last movie watched - <!-- movie starts -->`Eternals`<!-- movie ends -->
 - 📺 Currently watching - <!-- tv starts -->`Bad Education Season 3`<!-- tv ends -->
 - 🤝 Open for collaborations regarding backend/devops projects
 - 🌐 Visit my [website](https://ashish.me) for more information

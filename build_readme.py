@@ -43,7 +43,7 @@ def fetch_repos():
     return response
 
 def fetch_movie():
-    movie = httpx.get("https://api.ashish.me/movies").json()[0]["title"]
+    movie = httpx.get("https://systemapi.prod.ashish.me/movies").json()[0]["title"]
     return movie
 
 def fetch_tv():

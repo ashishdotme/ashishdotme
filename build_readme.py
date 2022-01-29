@@ -47,7 +47,7 @@ def fetch_movie():
     return movie
 
 def fetch_tv():
-    tv = httpx.get("https://api.ashish.me/shows").json()[0]["title"]
+    tv = httpx.get("https://systemapi.prod.ashish.me/shows").json()[0]["title"]
     return tv
 
 def fetch_blog_entries():

@@ -8,7 +8,7 @@ I'm a full stack developer currently focusing on React that loves to build thing
 
 - 👨🏽‍💻 Currently working and growing my skillset in React, .Net Core and Kubernetes
 - 🍿 Last movie watched - <!-- movie starts -->`Don't Breathe 2`<!-- movie ends -->
-- 📺 Currently watching - <!-- tv starts -->`Bad Education Season 3`<!-- tv ends -->
+- 📺 Currently watching - <!-- tv starts -->`Friends Season 1`<!-- tv ends -->
 - 🤝 Open for collaborations regarding backend/devops projects
 - 🌐 Visit my [website](https://ashish.me) for more information
 
@@ -33,11 +33,11 @@ More on [ashish.me](https://ashish.me)
 <td valign="top" width="34%">
 
 <!-- tils starts -->
+- [NestJS Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/nestjs/common-commands.md) - 2022-01-27
 - [Flask Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/flask/common-commands.md) - 2021-10-20
 - [Django Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/django/common-commands.md) - 2021-10-20
 - [PostgreSQL Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/postgresql/common-commands.md) - 2021-03-02
 - [Pull request flow](https://github.com/ashishdotme/til.ashish.me/blob/master/git/pull-request-flow.md) - 2020-11-26
-- [Run PostgreSQL](https://github.com/ashishdotme/til.ashish.me/blob/master/docker/run-postgresql.md) - 2020-10-24
 <!-- tils ends -->
 
 More on [til.ashish.me](https://til.ashish.me)

@@ -8,7 +8,7 @@ I'm a full stack developer currently focusing on React that loves to build thing
 
 - 👨🏽‍💻 Currently working and growing my skillset in React, .Net Core and Kubernetes
 - 🍿 Last movie watched - <!-- movie starts -->`Don't Breathe 2`<!-- movie ends -->
-- 📺 Currently watching - <!-- tv starts -->`Friends Season 1`<!-- tv ends -->
+- 📺 Currently watching - <!-- tv starts -->`Peep Show Season 9`<!-- tv ends -->
 - 🤝 Open for collaborations regarding backend/devops projects
 - 🌐 Visit my [website](https://ashish.me) for more information
 

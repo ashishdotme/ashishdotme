@@ -46,7 +46,7 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- repos starts -->
-- [time-tracker](https://github.com/ashishdotme/time-tracker) - 2022-04-11
+- [task-tracker](https://github.com/ashishdotme/task-tracker) - 2022-04-11
 - [ansu-bot](https://github.com/ashishdotme/ansu-bot) - 2022-04-02
 - [trollegle-client](https://github.com/ashishdotme/trollegle-client) - 2022-03-31
 - [importerapi.ashish.me](https://github.com/ashishdotme/importerapi.ashish.me) - 2022-01-13

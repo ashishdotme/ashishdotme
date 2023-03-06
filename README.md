@@ -33,11 +33,11 @@ More on [ashish.me](https://ashish.me)
 <td valign="top" width="34%">
 
 <!-- tils starts -->
+- [Dotnet Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/dotnet/common-commands.md) - 2023-02-26
 - [NestJS Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/nestjs/common-commands.md) - 2022-01-27
 - [Flask Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/flask/common-commands.md) - 2021-10-20
 - [Django Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/django/common-commands.md) - 2021-10-20
 - [PostgreSQL Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/postgresql/common-commands.md) - 2021-03-02
-- [Pull request flow](https://github.com/ashishdotme/til.ashish.me/blob/master/git/pull-request-flow.md) - 2020-11-26
 <!-- tils ends -->
 
 More on [til.ashish.me](https://til.ashish.me)

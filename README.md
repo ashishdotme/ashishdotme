@@ -23,7 +23,8 @@ I'm a full stack developer currently focusing on React that loves to build thing
 <td valign="top" width="33%">
 
 <!-- blog starts -->
-
+- [Making a simple todo app using bulma](https://ashish.me/blog/2018-09-26-react-redux-demo/) - Wed, 26 Sep 2018 
+- [Setting up my dev environment on Windows 10](https://ashish.me/blog/2017-01-01-plugins-for-visual-studio-code/) - Wed, 01 Mar 2017 
 <!-- blog ends -->
 
 More on [ashish.me](https://ashish.me)

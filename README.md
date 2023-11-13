@@ -46,13 +46,13 @@ More on [til.ashish.me](https://til.ashish.me)
 <td valign="top" width="33%">
 
 <!-- repos starts -->
+- [serverless-AWS-deployment](https://github.com/ashishdotme/serverless-AWS-deployment) - 2023-11-13
 - [til](https://github.com/ashishdotme/til) - 2023-03-06
 - [worker](https://github.com/ashishdotme/worker) - 2022-06-24
 - [task-tracker](https://github.com/ashishdotme/task-tracker) - 2022-04-11
 - [ansu-bot](https://github.com/ashishdotme/ansu-bot) - 2022-04-02
 - [trollegle-client](https://github.com/ashishdotme/trollegle-client) - 2022-03-31
 - [importerapi.ashish.me](https://github.com/ashishdotme/importerapi.ashish.me) - 2022-01-13
-- [roommate-telegram-bot](https://github.com/ashishdotme/roommate-telegram-bot) - 2022-01-08
 <!-- repos ends -->
 
 </td>

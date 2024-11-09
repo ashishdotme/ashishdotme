@@ -2,9 +2,9 @@ name: Build README
 
 on:
   push:
-  workflow_dispatch:
   schedule:
-    - cron: '8,28,48 * * * *'
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
@@ -35,8 +35,8 @@ jobs:
       - name: Commit and push if changed
         run: |-
           git diff
-          git config --global user.email "ashishsushilpatel@gmail.com"
-          git config --global user.name "Ashish Patel"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git add -A
           git commit -m "chore: update README" || exit 0
           git push

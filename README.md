@@ -7,24 +7,27 @@
 I'm a full stack developer currently focusing on React that loves to build things and contributing to open source.
 
 - 👨🏽‍💻 Currently working and growing my skillset in React, .Net Core and Kubernetes
-- 🍿 Last movie watched - <!-- movie starts -->`Meet the Parents`<!-- movie ends -->
-- 📺 Currently watching - <!-- tv starts -->`Peep Show Season 9`<!-- tv ends -->
 - 🤝 Open for collaborations regarding backend/devops projects
 - 🌐 Visit my [website](https://ashish.me) for more information
+
+<b>👋 Links</b>
+
+[[Website]](https://ashish.me) [[Wiki]](https://wiki.ashish.me) [[Notes]](https://ashish.me/notes) [[Uses]](https://ashish.me/uses) [[Todos]](https://ashish.me/todos) [[Listens]](https://ashish.me/listens) [[Movies]](https://ashish.me/movies) [[Shows]](https://ashish.me/shows) [[Books]](https://ashish.me/books)
 
 <br>
 <table>  
 <tr>
 <th><b>📕 Latest blog posts</b></th>
-<th><b>🗒️ Latest TIL</b></th>
-<th><b>📝 Latest projects</b></th>
+<th><b>🗒️ Latest wiki post</b></th>
+<th><b>📝 Latest weeknote</b></th>
 </tr>
 <tr>
 <td valign="top" width="33%">
 
 <!-- blog starts -->
-- [Making a simple todo app using bulma](https://ashish.me/blog/2018-09-26-react-redux-demo/) - Wed, 26 Sep 2018 
-- [Setting up my dev environment on Windows 10](https://ashish.me/blog/2017-01-01-plugins-for-visual-studio-code/) - Wed, 01 Mar 2017 
+
+- [Making a simple todo app using react and bulma](https://ashish.me/blog/making-a-simple-todo-app-using-react-and-bulma) - Sat, 27 Oct 2018
+- [Setting up my dev environment on windows 10](https://ashish.me/blog/setting-up-my-dev-environment-on-windows-10) - Wed, 01 Mar 2017
 <!-- blog ends -->
 
 More on [ashish.me](https://ashish.me)
@@ -32,33 +35,30 @@ More on [ashish.me](https://ashish.me)
 </td>
 <td valign="top" width="34%">
 
-<!-- tils starts -->
-- [Dotnet Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/dotnet/common-commands.md) - 2023-02-26
-- [NestJS Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/nestjs/common-commands.md) - 2022-01-27
-- [Flask Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/flask/common-commands.md) - 2021-10-20
-- [Django Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/django/common-commands.md) - 2021-10-20
-- [PostgreSQL Common commands](https://github.com/ashishdotme/til.ashish.me/blob/master/postgresql/common-commands.md) - 2021-03-02
-<!-- tils ends -->
+<!-- wiki starts -->
 
-More on [til.ashish.me](https://til.ashish.me)
+- [Conventional commits](https://github.com/ashishdotme/notes/blob/master/clean-code/conventional-commits.md) - 2024-11-08
+- [Cli](https://github.com/ashishdotme/notes/blob/master/personal/cli.md) - 2024-11-08
+- [Shortcuts](https://github.com/ashishdotme/notes/blob/master/personal/shortcuts.md) - 2024-10-29
+- [Subscriptions](https://github.com/ashishdotme/notes/blob/master/personal/subscriptions.md) - 2024-10-28
+- [Topic](https://github.com/ashishdotme/notes/blob/master/kafka/topic.md) - 2024-10-27
+<!-- wiki ends -->
+
+More on [wiki.ashish.me](https://wiki.ashish.me)
 
 </td>
 <td valign="top" width="33%">
 
-<!-- repos starts -->
-- [serverless-AWS-deployment](https://github.com/ashishdotme/serverless-AWS-deployment) - 2023-11-13
-- [til](https://github.com/ashishdotme/til) - 2023-03-06
-- [worker](https://github.com/ashishdotme/worker) - 2022-06-24
-- [task-tracker](https://github.com/ashishdotme/task-tracker) - 2022-04-11
-- [ansu-bot](https://github.com/ashishdotme/ansu-bot) - 2022-04-02
-- [trollegle-client](https://github.com/ashishdotme/trollegle-client) - 2022-03-31
-- [importerapi.ashish.me](https://github.com/ashishdotme/importerapi.ashish.me) - 2022-01-13
-<!-- repos ends -->
+<!-- weeknotes starts -->
 
-</td>
-</tr>
-</table>
-<b> 🤝To connect with me</b>
+- [Week 41, 2024](https://ashish.me/weekly/week-41,-2024) - 2024-10-13
+- [Week 42, 2024](https://ashish.me/weekly/week-42,-2024) - 2024-10-18
+  <!-- weeknotes ends -->
+  More on [ashish.me/weekly](https://ashish.me/weekly)
+  </td>
+  </tr>
+  </table>
+  <b> 🤝To connect with me</b>
 
 <p align = "center">
 

@@ -31,27 +31,27 @@ def replace_chunk_no_space(content, marker, chunk, inline=False):
     return r.sub(chunk, content)
 
 
-def fetch_tils():
-    sql = "select title, url, created_utc from til order by created_utc desc limit 5"
+def fetch_wiki():
+    sql = "select title, url, created_utc from notes order by created_utc desc limit 5"
     return httpx.get(
-        "https://til.ashish.me/til.json",
+        "https://notes.ashish.me/notes.json",
         params={"sql": sql, "_shape": "array", },
     ).json()
 
-def fetch_repos():
-    response = httpx.get("https://api.github.com/users/ashishdotme/repos?sort=created&per_page=10").json()
+def fetch_weeknotes():
+    response = httpx.get("https://blog.ashish.me/api/weekly/all.json").json()
     return response
 
 def fetch_movie():
-    movie = httpx.get("https://systemapi.prod.ashish.me/movies").json()[0]["title"]
+    movie = httpx.get("https://api.ashish.me/movies").json()[0]["title"]
     return movie
 
 def fetch_tv():
-    tv = httpx.get("https://systemapi.prod.ashish.me/shows").json()[0]["title"]
+    tv = httpx.get("https://api.ashish.me/shows").json()[0]["title"]
     return tv
 
 def fetch_blog_entries():
-    entries = feedparser.parse("https://ashish.me/blog/feed.xml")["entries"]
+    entries = feedparser.parse("https://ashish.me/feed.xml")["entries"]
     return [
         {
             "title": entry["title"],
@@ -66,18 +66,18 @@ if __name__ == "__main__":
     readme = root / "README.md"
     readme_contents = readme.open().read()
 
-    tils = fetch_tils()
-    tils_md = "\n".join(
+    wikis = fetch_wiki()
+    wikis_md = "\n".join(
         [
             "- [{title}]({url}) - {created_at}".format(
-                title=til["title"],
-                url=til["url"],
-                created_at=til["created_utc"].split("T")[0],
+                title=wiki["title"],
+                url=wiki["url"],
+                created_at=wiki["created_utc"].split("T")[0],
             )
-            for til in tils
+            for wiki in wikis
         ]
     )
-    rewritten = replace_chunk(readme_contents, "tils", tils_md)
+    rewritten = replace_chunk(readme_contents, "wiki", wikis_md)
 
     movie = fetch_movie()
     rewritten = replace_chunk_no_space(rewritten, "movie", movie, True)
@@ -85,18 +85,18 @@ if __name__ == "__main__":
     tv = fetch_tv()
     rewritten = replace_chunk_no_space(rewritten, "tv", tv, True)
 
-    repos = fetch_repos()[:7]
-    repos_md = "\n".join(
+    weeknotes = fetch_weeknotes()[:10]
+    weeknotes_md = "\n".join(
         [
             "- [{title}]({url}) - {published}".format(
-                title=repo["name"],
-                url=repo["svn_url"],
-                published=repo["created_at"].split("T")[0]
+                title=weeknote["title"],
+                url="https://ashish.me/weekly/" + weeknote["slug"],
+                published=weeknote["date"].split("T")[0]
             )
-            for repo in repos
+            for weeknote in weeknotes
         ]
     )
-    rewritten = replace_chunk(rewritten, "repos", repos_md)
+    rewritten = replace_chunk(rewritten, "weeknotes", weeknotes_md)
 
     entries = fetch_blog_entries()[:5]
     entries_md = "\n".join(

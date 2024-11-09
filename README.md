@@ -25,9 +25,8 @@ I'm a full stack developer currently focusing on React that loves to build thing
 <td valign="top" width="33%">
 
 <!-- blog starts -->
-
-- [Making a simple todo app using react and bulma](https://ashish.me/blog/making-a-simple-todo-app-using-react-and-bulma) - Sat, 27 Oct 2018
-- [Setting up my dev environment on windows 10](https://ashish.me/blog/setting-up-my-dev-environment-on-windows-10) - Wed, 01 Mar 2017
+- [Making a simple todo app using react and bulma](https://ashish.me/blog/making-a-simple-todo-app-using-react-and-bulma) - Sat, 27 Oct 2018 
+- [Setting up my dev environment on windows 10](https://ashish.me/blog/setting-up-my-dev-environment-on-windows-10) - Wed, 01 Mar 2017 
 <!-- blog ends -->
 
 More on [ashish.me](https://ashish.me)
@@ -36,7 +35,6 @@ More on [ashish.me](https://ashish.me)
 <td valign="top" width="34%">
 
 <!-- wiki starts -->
-
 - [Conventional commits](https://github.com/ashishdotme/notes/blob/master/clean-code/conventional-commits.md) - 2024-11-08
 - [Cli](https://github.com/ashishdotme/notes/blob/master/personal/cli.md) - 2024-11-08
 - [Shortcuts](https://github.com/ashishdotme/notes/blob/master/personal/shortcuts.md) - 2024-10-29
@@ -50,10 +48,9 @@ More on [wiki.ashish.me](https://wiki.ashish.me)
 <td valign="top" width="33%">
 
 <!-- weeknotes starts -->
-
 - [Week 41, 2024](https://ashish.me/weekly/week-41,-2024) - 2024-10-13
 - [Week 42, 2024](https://ashish.me/weekly/week-42,-2024) - 2024-10-18
-  <!-- weeknotes ends -->
+<!-- weeknotes ends -->
   More on [ashish.me/weekly](https://ashish.me/weekly)
   </td>
   </tr>

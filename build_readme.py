@@ -93,7 +93,7 @@ if __name__ == "__main__":
                 url="https://ashish.me/weekly/" + weeknote["slug"],
                 published=weeknote["date"].split("T")[0]
             )
-            for weeknote in weeknotes
+            for weeknote in reversed(weeknotes)
         ]
     )
     rewritten = replace_chunk(rewritten, "weeknotes", weeknotes_md)

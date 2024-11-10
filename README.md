@@ -48,8 +48,8 @@ More on [wiki.ashish.me](https://wiki.ashish.me)
 <td valign="top" width="33%">
 
 <!-- weeknotes starts -->
-- [Week 41, 2024](https://ashish.me/weekly/week-41,-2024) - 2024-10-13
 - [Week 42, 2024](https://ashish.me/weekly/week-42,-2024) - 2024-10-18
+- [Week 41, 2024](https://ashish.me/weekly/week-41,-2024) - 2024-10-13
 <!-- weeknotes ends -->
   More on [ashish.me/weekly](https://ashish.me/weekly)
   </td>

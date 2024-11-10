@@ -39,7 +39,7 @@ def fetch_wiki():
     ).json()
 
 def fetch_weeknotes():
-    response = httpx.get("https://blog.ashish.me/api/weekly/all.json").json()
+    response = httpx.get("https://blog.ashish.me/weekly/all.json").json()
     return response
 
 def fetch_movie():

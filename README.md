@@ -48,9 +48,10 @@ More on [wiki.ashish.me](https://wiki.ashish.me)
 <td valign="top" width="33%">
 
 <!-- weeknotes starts -->
-- [Week 43, 2024](https://ashish.me/weekly/week-43,-2024) - 2024-10-27
-- [Week 42, 2024](https://ashish.me/weekly/week-42,-2024) - 2024-10-18
-- [Week 41, 2024](https://ashish.me/weekly/week-41,-2024) - 2024-10-13
+- [Week 44, 2024](https://ashish.me/weekly/week-44,-2024) - 2024-11-02
+- [Week 43, 2024](https://ashish.me/weekly/week-43,-2024) - 2024-10-26
+- [Week 42, 2024](https://ashish.me/weekly/week-42,-2024) - 2024-10-19
+- [Week 41, 2024](https://ashish.me/weekly/week-41,-2024) - 2024-10-12
 <!-- weeknotes ends -->
   More on [ashish.me/weekly](https://ashish.me/weekly)
   </td>
